@@ -1,0 +1,16 @@
+{
+  "name": "html5-gh-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d src"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "homepage": "https://github.com/yangfeiloveG/boqii-pages"
+}
